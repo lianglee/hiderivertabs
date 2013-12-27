@@ -2,11 +2,8 @@ HideRiverTabs
 ===================
 
 Hide Top tabs from river.
-This plugin is developed for @new_hero, http://community.elgg.org/profile/new_hero
 
-Contributors
-=============
-  None
+This plugin is developed for @new_hero, http://community.elgg.org/profile/new_hero
 
 Installation
 =============
